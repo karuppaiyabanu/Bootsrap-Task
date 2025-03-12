@@ -1,0 +1,26 @@
+body{
+    overflow-y: hidden;
+}
+.dash-border{
+    border-style: dashed ;
+    border-color: rgb(165, 172, 165);
+}
+
+.button-add-text-info-dark{
+    color: blue;
+    font-size: 12px;
+}
+
+.t-heading{
+    min-width: 750px;
+}
+.card-heading{
+    font-size: 12px;
+}
+.bg-custom{
+    background-color: #495057 !important;
+}
+
+.bg-color{
+    background-color: rgba(228, 228, 226, 0.881);
+}
